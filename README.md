@@ -2,7 +2,10 @@
 
 # Meteora - E-commerce de Moda
 
-O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial.
+O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. 
+Projeto desenvolvido em um curso de React da Alura. 
+React: gerencie estados globalmente com Context API.
+
 ![GIF da aplicação em execução](meteora-app.gif)
 
 ## 🔨 Funcionalidades do projeto
