@@ -1,6 +1,6 @@
 import React from "react";
-
 import imagemCarrinho from "/assets/cart.svg";
+
 
 const BotaoCarrinho = ({ className, quantidadeProdutos }) => {
   const classesComuns = "btn ms-3";
