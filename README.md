@@ -1,4 +1,3 @@
-![Meteora](thumbnail.png)
 
 # Meteora - E-commerce de Moda
 
